@@ -1,0 +1,3 @@
+# Ignore problems solved that are not official problems
+problem*.py
+test*.txt
